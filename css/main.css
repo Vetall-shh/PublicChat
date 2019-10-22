@@ -1,0 +1,18 @@
+body{
+  background-color: #41454d;
+}
+
+#message-container div {
+  background-color: #000;
+  padding: 10px;
+  color: #fff;
+}
+
+#send-container {
+  margin-top: 300px;
+  margin-left: 190px;
+}
+
+#message-container div:nth-child(2n) {
+  background-color: #9d9d9e;
+}
